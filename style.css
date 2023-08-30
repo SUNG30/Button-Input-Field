@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button1{
+    height: 2em;
+    
+}
+button{
+    display: block;
+}
